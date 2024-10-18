@@ -40,8 +40,8 @@ export const metadata: Metadata = {
     title: "Shivam Singh — Frontend Engineer",
     description:
       "Frontend Engineer, React JS developer based in Chandigarh India.",
-    url: "https://www.vikasonweb.netlify.app/",
-    siteName: "www.vikasonweb.netlify.app",
+    url: "https://www.shivamonweb.netlify.app/",
+    siteName: "www.shivamonweb.netlify.app",
     // images: [
     //   {
     //     url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",

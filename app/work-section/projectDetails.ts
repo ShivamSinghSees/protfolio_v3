@@ -47,7 +47,6 @@ export const devProjects = [
     description:
       "It was a fun project made for experiencing the open ai Dalle api",
     technologies: ["Dalle", "ExpressJS", "whatapp-web.js"],
-    github: "https://github.com/Vikas-Yadav-07/whatapp-bot",
     image: require(".//../../public/projects/whatsappbot.webp"),
     available: true,
   },
