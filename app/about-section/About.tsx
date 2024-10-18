@@ -79,7 +79,7 @@ const About = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-              <AnimatedBody text={"Node, NestJS, ExpressJS, Strapi."} />
+              <AnimatedBody text={"Node, Angular, ExpressJS"} />
             </div>
           </div>
         </div>
