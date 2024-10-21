@@ -36,28 +36,19 @@ export const devProjects = [
     name: "Daze MGMT",
     description:
       "A website where users can book infuencers for there buisness advertisements",
-    technologies: ["NextJS", "GSAP", "Strapi"],
+    technologies: ["NextJS", "Express"],
     demo: "https://daze-mgmt.com/",
     image: require(".//../../public/projects/dazeMGMT.webp"),
-    available: true,
-  },
-  {
-    id: 5,
-    name: "Ai Delle Whatsapp bot",
-    description:
-      "It was a fun project made for experiencing the open ai Dalle api",
-    technologies: ["Dalle", "ExpressJS", "whatapp-web.js"],
-    image: require(".//../../public/projects/whatsappbot.webp"),
     available: true,
   },
   {
     id: 4,
-    name: "Daze MGMT",
+    name: "Study Buddy",
     description:
-      "A website where users can book infuencers for there buisness advertisements",
-    technologies: ["NextJS", "GSAP", "Strapi"],
-    demo: "https://daze-mgmt.com/",
-    image: require(".//../../public/projects/dazeMGMT.webp"),
+      "Ai Chrome Extension that helps students in Assignment, Tests, and Quiz",
+    technologies: ["React", "Typescript"],
+    demo: "https://studybuddy.gg/",
+    image: require(".//../../public/projects/study-buddy.webp"),
     available: true,
   },
 ];
