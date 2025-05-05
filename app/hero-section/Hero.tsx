@@ -45,7 +45,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/shivam-singh-84b16823a/"
+            href="https://www.linkedin.com/in/shivam-kumar-84b16823a/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
